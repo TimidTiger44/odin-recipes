@@ -1,0 +1,15 @@
+body {
+    font-family: "Times New Roman" Helvetica, sans-serif;
+    background-color: chocolate;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 38px;
+}
+
+.list {
+    text-align: left;
+}
